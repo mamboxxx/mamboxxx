@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="HEXA SCRIPTS Banner" width="100%">
-</p>
 <h1 align="center">
   👋 Hola, Soy Mambo
 </h1>
@@ -49,12 +46,12 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mamboxxx)
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/H2pKvbVBrw)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qxHaRw6s3t)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,100:6A00FF&height=120&section=footer"/>
+  <img src="./bannerhexa.png" alt="HEXA SCRIPTS Banner">
 </p>
 
 <p align="center">
