@@ -50,11 +50,3 @@
 
 ---
 
-<p align="center">
-  <img src="./bannerhexa.png" alt="HEXA SCRIPTS Banner">
-</p>
-
-<p align="center">
-  <b>HEXA SCRIPTS</b><br>
-  Professional FiveM Development
-</p>
